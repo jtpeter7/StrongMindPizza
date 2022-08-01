@@ -1,0 +1,16 @@
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.exe
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.deps.json
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.runtimeconfig.json
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.dll
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\bin\Debug\netcoreapp3.1\StrongMind Pizza.pdb
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind_Pizza.Form1.resources
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.dll
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.pdb
+C:\Users\Jacob\source\repos\StrongMind Pizza\StrongMind Pizza\obj\Debug\netcoreapp3.1\StrongMind Pizza.genruntimeconfig.cache
